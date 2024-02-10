@@ -1,4 +1,4 @@
-Keep Note Mobile App
+
 ![](./assets/app1.png)
 
 ![](./assets/app2.png)
